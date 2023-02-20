@@ -4,11 +4,7 @@ layout: default
 
 {% include head.md %}
 
-<h1 id="title" class="title">Ciência da Computação</h1>
-
----
-
-Utilize os *links* abaixo para acompanhar as novidades do curso de Ciência da Computação, *campus* Alegrete - **Unipampa**.
+Utilize os *links* abaixo para acompanhar nossas novidades! 😊
 
 <div class="links">
   <a class="link" href="https://cursos.unipampa.edu.br/cursos/cienciadacomputacao/" target="_blank">🌐&nbsp; Portal do Curso</a>

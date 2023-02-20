@@ -1,5 +1,5 @@
 <hr>
 
 <div class="foot">
-  <b>&#169; 2022 Unipampa</b>
+  <b>&#169; 2023 Unipampa</b>
 </div>
