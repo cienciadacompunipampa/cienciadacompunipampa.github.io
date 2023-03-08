@@ -1,0 +1,16 @@
+- name: Augusto Goulart
+  startdate: 2023-02-06
+  votes:
+    - topic: "Indicação do único discente que colará grau 2022/2 como Estudante Destaque SBC"
+      date: 2023-03-07
+      considerations:
+        summary: "Considerada a análise do desempenho acadêmico do aluno, assim como:"
+        points:
+          - pro: "o destaque SBC não é uma métrica interna da nossa instituição."
+          - pro: "o desempenho em sala não considera a participação no ambiente acadêmico."
+          - pro: "as circunstâncias desconhecidas que levaram a reprovação ou baixo desempenho em sala."
+          - pro: "a importância de destacar as atividades de nossos egressos."
+          - con: "ao fato do destaque poder desvalorizar as indicações prévias de estudantes com maior desempenho."
+      position:
+        favorable: true
+        opinion: "A favor da indicação do aluno ao destaque SBC."

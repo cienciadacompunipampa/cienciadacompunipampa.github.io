@@ -2,10 +2,33 @@
 layout: default
 ---
 
-{% include head.md %}
+<section class="hero is-light is-medium">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <img id="logo" src="/assets/img/logo.png" alt="Page logo">
+    </div>
+  </div>
 
+  <div class="hero-foot">
+    <nav class="tabs is-boxed is-fullwidth">
+      <div class="container">
+        <ul>
+          <li>
+            <a href="/">Links</a>
+          </li>
+          <li class="is-active">
+            <a href="/faq">Dúvidas</a>
+          </li>
+          <li>
+            <a href="/votes">Representação</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</section>
 
-<div class="faq">
+<div id="page" class="container content mt-6 mb-6">
 <div markdown="1">
 
 ## O que é um ciêntista da computação?
@@ -46,8 +69,7 @@ As certificações podem ajudar a mantê-lo atualizado sobre as inovações de T
 ## Como a Ciência da Computação pode ajudar o meio ambiente?
 A Ciência da Computação pode ajudar a reduzir o impacto ambiental de várias maneiras. Por exemplo, os cientistas da computação podem desenvolver algoritmos que ajudem a reduzir o consumo de energia e a poluição. Não é surpresa, então, que a Ciência da Computação esteja sendo usada para ajudar a preservar e proteger o meio ambiente.
 
-
 </div>
 </div>
 
-{% include foot.md %}
+{% include foot.html %}
